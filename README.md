@@ -20,7 +20,7 @@ a user clicks on any such campaign, a UTM Visited campaign is recorded.
 ## Our Approach
 
 
-## Evaluation Metric
+## Evaluation Metrics
 - F1-score
 - Segments: Minimum of 2 segments and a maximum 4 segments can be created
 - Features: The goal of a marketer is to not only identify users who are likely to convert but also
