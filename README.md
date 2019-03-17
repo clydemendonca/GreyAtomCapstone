@@ -1,6 +1,6 @@
 # Capstone Project
-# Predictive Event Modelling - Propensity to watch a video in the next 2 days
-# Recommendation Engine - Recommending 3 new videos to a user based on the videos he/she has watched
+### Predictive Event Modelling - Propensity to watch a video in the next 2 days
+### Recommendation Engine - Recommending 3 new videos to a user based on the videos he/she has watched
 
 Problem Statement : 
 - Segment the audience of a content app based on its user’s propensity to watch a video in the next 2 days.
